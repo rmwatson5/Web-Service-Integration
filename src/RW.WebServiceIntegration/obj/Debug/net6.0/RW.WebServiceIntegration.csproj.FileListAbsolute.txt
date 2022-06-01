@@ -1,0 +1,12 @@
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\bin\Debug\net6.0\RW.WebServiceIntegration.deps.json
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\bin\Debug\net6.0\RW.WebServiceIntegration.dll
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\bin\Debug\net6.0\RW.WebServiceIntegration.pdb
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.csproj.AssemblyReference.cache
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.AssemblyInfoInputs.cache
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.AssemblyInfo.cs
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.csproj.CoreCompileInputs.cache
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.dll
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\refint\RW.WebServiceIntegration.dll
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\RW.WebServiceIntegration.pdb
+C:\Projects\Web-Service-Integration\src\RW.WebServiceIntegration\obj\Debug\net6.0\ref\RW.WebServiceIntegration.dll
